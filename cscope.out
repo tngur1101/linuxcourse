@@ -1,0 +1,69 @@
+cscope 15 $HOME/linuxcourse1               0000000347
+	@test2.sh
+
+1 #!/
+bš
+/
+sh
+
+
+2 
+	gnum1
+=100
+
+3 
+num2
+=`
+ex´
+ 
+$num1
+ + 100`
+
+4 
+num3
+=200
+
+5 [ "$num1"-
+eq
+"$num2" ]
+
+6 
+th’
+
+
+7 
+echo
+ "num2 is‚ot calculated"
+
+8 
+–if
+ [ "($num1!=$num2)&&($num2= $num3)" ]
+
+9 
+th’
+
+
+10 
+echo
+ "num2 is calculated"
+
+12 
+echo
+ "nothing"
+
+13 
+fi
+
+
+15 
+ex™
+ 0
+
+	@
+1
+.
+1
+/usr/include
+1
+9
+test2.sh
